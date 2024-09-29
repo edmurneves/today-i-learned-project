@@ -69,7 +69,7 @@ function Loader() {
 }
 
 function Header({ showForm, setShowForm }) {
-  const appTitle = "Fatos & Fakes!";
+  const appTitle = "Fatos & Fakes 2!";
 
   return (
     <header className="header">
